@@ -1,4 +1,6 @@
 import cv2
+from skimage import feature
+import numpy as np
 
 cap = cv2.VideoCapture(0)
 
