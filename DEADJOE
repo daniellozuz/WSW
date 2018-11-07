@@ -1,0 +1,32 @@
+
+*** These modified files were found in JOE when it aborted on Wed Nov  7 11:05:57 2018
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/odroid/WSW/.git/COMMIT_EDITMSG
+
+*** File '/home/odroid/WSW/.git/COMMIT_EDITMSG'
+commit
+
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   cos.py
+#	new file:   shapedetector.py
+#
+# Untracked files:
+#	__pycache__/
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
