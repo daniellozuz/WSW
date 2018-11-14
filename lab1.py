@@ -15,12 +15,16 @@ while(True):
     print(clock.fps())
 
 
-# Co udostepnia
-# Jak dziala
+
 # Predkosc przetwarzania (w zaleznosci od alg.)
 
 
-# 1. Zaczac od wczytania w roznych formatach
+# 1. Zaczac od wczytania w roznych formatach (DLA QVGA - 320x240)
 # RGB565 - 28.6 (38)
 # GRAYSCALE - 34.5 (51)
 # BAYER - 14.1 (28)
+
+# 2. HOME Co udostepnia
+# 3. HOME Jak dziala
+
+# 4.
